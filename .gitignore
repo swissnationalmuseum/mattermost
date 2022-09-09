@@ -2,3 +2,15 @@ volumes
 data
 certs
 .env
+
+
+#macOS
+.DS_Store
+
+# PhpStorm / IDEA
+.idea
+*.iml
+
+# NetBeans
+nbproject
+
